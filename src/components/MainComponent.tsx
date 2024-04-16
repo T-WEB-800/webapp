@@ -1,6 +1,4 @@
-// LayoutComponent.js
-import React from 'react';
-import TabComponent from './TabComponent'; // Adjust the import path as necessary
+import TabComponent from './TabComponent';
 
 const LayoutComponent = () => {
   return (

@@ -1,14 +1,13 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 
 const TabComponent = () => {
   const [activeTab, setActiveTab] = useState('tab1');
 
   const handleSearch = () => {
-    // Implementation of search logic
   };
 
   return (
-    <div className="p-4 mb-20"> {/* Added padding here */}
+    <div className="p-4 mb-20">
       <div className="shadow-md rounded px-8 pt-6 pb-8 mb-4">
         <div className="mb-4">
           <nav className="flex flex-row mb-4">
