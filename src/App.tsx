@@ -9,7 +9,7 @@ function App() {
 
   return (
     <div className="bg-white">
-    <Navbar />
+    {/* <Navbar /> */}
     {/* <div className='bg-white'>
     <LayoutComponent />
     </div>
